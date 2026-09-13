@@ -57,4 +57,5 @@
 
 For any inquiries or suggestions regarding the Grievance Portal, please contact the project contributors:
 
-- Puneeta Thareja : [puneetathareja.ai24@bmsce.ac.in]
+- Puneeta Thareja : [puneetathareja@gmail.com]
+
